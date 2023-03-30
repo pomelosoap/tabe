@@ -1,0 +1,22 @@
+[archive]
+  other = "アーカイブ"
+[archive_text]
+  other = "アーカイブを見る"
+[author_profile]
+  other = "{{ . }}のプロフィール"
+[designed_by]
+  other = "<a href='{{ .url }}' target='_blank' title='Linkedinプロフィール' rel='nonopener'>{{ .name }}</a>によるデザイン"
+[go_back]
+  other = "戻る"
+[latest_posts]
+  other = "最新記事"
+[link_copied]
+  other = "リンクをコピーしました"
+[not_found_text]
+  other = "お探しのページが見つかりませんでした"
+[not_found_title]
+  other = "おっとっと！"
+[share_story]
+  other = "ストーリーを共有する"
+[toggle_dark_mode]
+  other = "ダークモードの切り替え"
